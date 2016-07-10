@@ -1,0 +1,12 @@
+D:\GitHub\WifiHotspot\WifiHotspot\bin\Debug\WifiHotspot.exe.config
+D:\GitHub\WifiHotspot\WifiHotspot\bin\Debug\WifiHotspot.exe
+D:\GitHub\WifiHotspot\WifiHotspot\bin\Debug\WifiHotspot.pdb
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.csprojResolveAssemblyReference.cache
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.Properties.Resources.resources
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.csproj.GenerateResource.Cache
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.exe
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.pdb
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.frmMain.resources
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.frmAdd.resources
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.frmDelete.resources
+D:\GitHub\WifiHotspot\WifiHotspot\obj\Debug\WifiHotspot.frmUse.resources
